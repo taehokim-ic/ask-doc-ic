@@ -1,0 +1,51 @@
+type: intent
+name: student_status
+utterances:
+  - how do i access my statement of registration letter
+  - how do i get my registration document
+  - how do i access my statement of award letter
+  - how do i get my award document
+  - how do i access my pre award transcript
+  - how do i access my pre-award transcript
+  - how do i get my pre award document
+  - how do i get my pre-award document
+  - how do i access My Imperial
+  - how do i access myimperial
+  - how do i update my bank details
+  - how do i change my bank details
+  - i want to change my bank details
+  - how do i access my short-term study visa letter
+  - how do i access my study visa letter
+  - how do i access my short-term study visa document
+  - how do i access my tier 2 visa reference letter
+  - how do i access my tier 2 visa document
+  - i want to drop out of my course
+  - i want to leave my course
+  - i want to quit my studies
+  - i want to drop out of imperial
+  - i want to quit my course
+  - i want to quit imperial
+  - i want to leave imperial
+  - i want to switch courses
+  - i want to switch programmes
+  - i want to switch degrees
+  - i want to change courses
+  - i want to change programmes
+  - i want to change degrees
+  - how do i enrol for next year
+  - how can i see my results
+  - how can i see my exam results
+  - how can i see what i-explore i'm doing
+  - what i-explore am i doing
+  - how do i check my personal details
+  - i want to change my personal details
+  - i want to check my basic details
+  - i want to change my basic details
+  - how do i re-enrol on my course
+  - how do i re-enrol on my programme
+  - how do i re-enrol on my degree
+  - what support do study abroad students get
+  - what do i do if i lose my student id card
+  - what do i do if i lose my id card
+  - what do i do if i lose my student card
+

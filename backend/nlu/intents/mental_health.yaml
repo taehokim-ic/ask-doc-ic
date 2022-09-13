@@ -1,0 +1,89 @@
+type: intent
+name: mental_health
+utterances:
+  - how can I contact Caroline
+  - Who is my year representative
+  - who are my year reps
+  - who is the wellbeing rep
+  - can I contact my personal tutor if i have mental health problems
+  - can i get a therapist
+  - can i get a councillor
+  - counselor
+  - can i get a counselor
+  - counsellor
+  - can i get a counsellor
+  - what's Caroline's email
+  - Who is my well-being representative
+  - Who is my well-being rep
+  - who is my well being representative
+  - i feel so stressed, what should i do
+  - i am so stressed, what should i do
+  - i feel lonely, is there anyone that i can talk to
+  - i am very upset with my grades, who can i talk to
+  - i am upset with my exams
+  - the workload is killing me
+  - i can't handle all the exams
+  - i feel overwhelmed by the coursework and exams
+  - i feel unmotivated and unfocused
+  - i can't focus on my studying
+  - i am overwhelmed by the workload
+  - does imperial provide any mental health support
+  - can i contact my personal tutor if i feel stressed
+  - i failed so many exams, is there anyone that i can talk to
+  - i am very anxious about my grade
+  - is the mental health support in confidence
+  - who is caroline
+  - how can i book a session with caroline
+  - is the therapy free in imperial
+  - how long are counselling sessions
+  - how long do i have to wait for counselling
+  - i feel stressed
+  - i'm stressed
+  - i feel homesick
+   - i am struggling with my mental health
+  - who should I contact if I need mental health help
+  - who should I contact if I need mental health support
+  - what should i do if i need mental health support
+  - where can i get mental health support
+  - i need mental health support
+  - i need help
+  - i need support
+  - i feel that i might self harm
+  - i am worried about self harming
+  - i have self harmed
+  - i have depression
+  - i am so depressed
+  - i am suffering from depression
+  - i feel depressed
+  - i have a sense of dread
+  - i feel worthless
+  - i feel sad
+  - i feel empty
+  - depressed
+  - depression
+  - i am depressed
+  - i am suffering from depression
+  - i am anxious
+  - i'm anxious
+  - i feel anxious
+  - anxious
+  - i have anxiety
+  - anxiety
+  - i worry a lot
+  - i feel low
+  - i feel upset
+  - i feel upset all the time
+  - i have trouble sleeping
+  - i can't sleep at night
+  - i feel tired all the time
+  - i can't relax
+  - i have trouble relaxing
+  - i have an anxiety disorder
+  - anxiety disorder
+  - i have panic attacks
+  - i am having a panic attack
+  - panic attack
+  - i think i have bipolar disorder
+  - bipolar
+  - i am mentally unwell
+  - mentally unwell

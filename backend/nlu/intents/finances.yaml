@@ -1,0 +1,75 @@
+type: intent
+name: finances
+utterances:
+  - i need to get a loan
+  - i don't have enough money to pay for my studies
+  - i want to get a loan
+  - where can i get a student loan from
+  - can i get information on student finance
+  - i have bad finances
+  - i really need help for money
+  - i need financial help
+  - how can i apply for financial assistance
+  - where can i apply for financial help
+  - how can i apply for doc hardship fund
+  - i want to apply for doc hardship find
+  - where can i get more information on department of computing hardship fund
+  - i need help with funding my education
+  - i need money to study
+  - i want to apply for financial assistance
+  - where can i find information about scholarship
+  - i want to see what scholarships i can get
+  - how do i apply for hardship fund
+  - how can i apply for harship fund 
+  - what is the process of apply for hardship fund
+  - how do i apply for dean's fund
+  - how can i apply for deans fund
+  - i want to know how i can apply for deans fund
+  - where can i get information on loan
+  - information on loan
+  - information on student loan
+  - info on loan
+  - info on student loan
+  - help with funding education
+  - scholarship information available
+  - cost of living
+  - i need help so i can pay for my studies
+  - i need financial help
+  - financial help
+  - money help
+  - i don't think i have enough money to pay for my education
+  - how do i get help with money
+  - i don't think i can afford education
+  - i am struggling financially
+  - financial struggle
+  - imperial bursary
+  - imperial bursery
+  - what is the imperial bursary
+  - what is the imperial bursery
+  - how do i know if i should get the imperial bursary
+  - how do i know if i should get the imperial bursery
+  - am i eligible for imperial bursary
+  - am i eligible for imperial bursery
+  - i haven't received my imperial bursary. who should i contact
+  - i haven't received my imperial bursery. who should i contact
+  - where can i get maintenance loan
+  - i want to get maintenance loan
+  - how do i get loan to cover living cost
+  - how do i repay my student loan
+  - repayment for student loan
+  - loan repayment
+  - tuition fees loan
+  - how to get loan for tuition fees
+  - am i financially responsible
+  - are there grants available
+  - repay loan
+  - loan information for students
+  - tuition fees loan
+  - loan to cover living cost
+  - finances
+  - financial struggle
+  - financial hardship
+  - financial difficulty
+  - money problem
+  - don't have money
+  - i am poor

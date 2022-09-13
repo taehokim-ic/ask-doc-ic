@@ -1,0 +1,144 @@
+type: intent
+name: course_info_y1
+utterances:
+  - give me more info on computer systems
+  - give me more info on computer architecture
+  - "40001"
+  - "40007"
+  - "40016"
+  - "40009"
+  - "40018"
+  - "40005"
+  - "40008"
+  - "40017"
+  - computer architecture
+  - introduction to computer architecture
+  - ICA
+  - introduction to computer systems
+  - calculus
+  - linear algebra
+  - graphs and algorithms
+  - graphs
+  - database
+  - introduction to databases
+  - introduction to database
+  - computing practical I
+  - computing practical first year
+  - computing first year practical
+  - first year computing practical
+  - first year computing modules
+  - first year modules
+  - discrete mathematics
+  - logic
+  - reasoning about programs
+  - reasoning
+  - java
+  - haskell
+  - kotlin
+  - c programming
+  - c group project
+  - c project
+  - pmt
+  - mmt
+  - ppt
+  - personal programming tutor
+  - personal maths tutor
+  - who teaches 40001
+  - who teaches 40007
+  - who teaches 40016
+  - who teaches 40009
+  - who teaches 40018
+  - who teaches 40005
+  - who teaches 40008
+  - who teaches 40017
+  - where can i find information on 40001 
+  - where can i find information on 40007
+  - where can i find information on 40016
+  - where can i find information on 40009
+  - where can i find information on 40018
+  - where can i find information on 40005
+  - where can i find information on 40008
+  - where can i find information on 40017
+  - where can i find information on calculus 
+  - where can i find information on linear algebra
+  - where can i find information on computer systems
+  - where can i find information on computer architecture
+  - where can i find information on discrete mathematics
+  - where can i find information on databases
+  - where can i find information on reasoning
+  - where can i find information on reasoning about programs
+  - where can i find information on logic
+  - where can i find information on computing practical 1
+  - where can i find information on graphs and algorithms
+  - where can i find information on graphs
+  - where can i find information on 40017
+  - information on 40001 
+  - information on 40007
+  - information on 40016
+  - information on 40009
+  - information on 40018
+  - information on 40005
+  - information on 40008
+  - information on 40017
+  - information on calculus 
+  - information on linear algebra
+  - information on computer systems
+  - information on computer architecture
+  - information on discrete mathematics
+  - information on databases
+  - information on reasoning
+  - information on reasoning about programs
+  - information on logic
+  - information on computing practical 1
+  - information on graphs and algorithms
+  - information on graphs
+  - information on 40017
+  - prepare 40001 
+  - prepare 40007
+  - prepare 40016
+  - prepare 40009
+  - prepare 40018
+  - prepare 40005
+  - prepare 40008
+  - prepare 40017
+  - 1st year computing practical
+  - 1st year computing modules
+  - 1st year modules
+  - can i get more info on ICS
+  - what language are we using in database
+  - what's the recommended reading list for calculus
+  - what languages are used in computing practical 
+  - how many terms is logic and reasoning
+  - what's the recommended reading list for linear algebra
+  - is ppt required
+  - what books should i read to have a better grade in kotlin
+  - are we learning java in second term
+  - is database hard
+  - first year
+  - year one
+  - how many modules do i have to take in year one
+  - year one modules
+  - first year modules
+  - first year modules' website
+  - I want to see the first year regulations
+  - how much does c project weight in 40009
+  - do all courseworks weight 15% in first year
+  - do all exams weight 85% in first year
+  - i need help in finding course info in first year
+  
+
+---
+
+type: entity
+name: first year
+values: 
+  - [year one, 1st year, 1st years, first year, first years]
+  - ["40001", introduction to computer system, ICS]
+  - ["40007", introduction to databases, databases, database, intro to databases]
+  - ["40016", calculus]
+  - ["40009", computing practical, java, haskell, kotlin, c, c project]
+  - ["40018", discrete mathematics, logic, reasoning, discrete, discrete math, logic and reasoning]
+  - ["40005", introduction to computer architecture, architecture, computer architecture]
+  - ["40008", graphs and algorithms, graphs]
+  - ["40017", linear algebra]
+  - [pmt, ppt, mmt, personal math tutor, personal programing tutor, tutorial]

@@ -1,0 +1,62 @@
+type: intent
+name: academic_appeal
+utterances:
+  - how do i apply for an academic appeal
+  - can i apply for an academic appeal
+  - where can i find help for my academic appeal
+  - what advice can i get for making an academic appeal
+  - what advice can i receive for making an appeal
+  - what support can i get for my academic appeal submission
+  - what support can i get for my appeal submission
+  - what guidance can i get for making an appeal
+  - what guidance can i get for making an academic appeal
+  - should i make an academic appeal
+  - when should i make an academic appeal
+  - can i appeal my results
+  - where can i find the department appeal form
+  - where can i get the appeal form
+  - appeal form
+  - where is the academic appeal form
+  - is there a link to the appeal form
+  - what is an appeal
+  - what is an academic appeal
+  - where can i find more information about making an academic appeal
+  - where can i find info on academic appeals
+  - what can i appeal
+  - can i appeal academic judgement
+  - what can i expect after i submit an appeal
+  - how long do i have to wait to hear back after i submit an academic appeal
+  - what is the wait time for academic appeals
+  - what is the waiting time for appeals
+  - can i appeal the decision of my academic appeal
+  - can i appeal the appeal decision
+  - can i appeal the decision of my appeal
+  - i am unhappy with the outcome of my appeal
+  - i am unhappy with the outcome of my academic appeal
+  - who should i contact if i am unhappy with the outcome of my appeal
+  - who should i contact if i am unhappy with the outcome of my academic appeal
+  - how do i contact the oia
+  - how do i contact the office of the independent adjudicator
+  - can the appeal deadline be extended for me
+  - can the academic appeal deadline be extended for me
+  - i have a disability. can the appeal deadline be adjusted for me
+  - i have a disability. can the academic appeal deadline be adjusted for me
+  - can the appeal procedure be adjusted for disabled people
+  - can the academic appeal procedure be adjusted for disabled people
+  - on what grounds should i make an appeal
+  - on what grounds should i make an academic appeal
+  - on what grounds should i raise an appeal
+  - on what grounds should i raise an academic appeal
+  - i am dissatisfied with the outcome of my appeal
+  - i am dissatisfied with the outcome of my academic appeal
+  - what is the deadline for making an appeal
+  - what is the deadline for making an academic appeal
+  - what happens if i submit my appeal late
+  - what happens if i submit my academic appeal late
+  - what happens if i submit my appeal after the published deadline
+  - what happens if i submit my academic appeal after the published deadline
+  - who should i submit my academic appeal to
+  - who should i submit my appeal to
+  - how should i submit my academic appeal
+  - how should i submit my appeal
+  - can i appeal against a withdrawal for unsatisfactory progress

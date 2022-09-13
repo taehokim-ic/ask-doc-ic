@@ -1,0 +1,54 @@
+type: intent
+name: private_housing
+utterances:
+  - how can I find flatmates to live with
+  - how can I choose flatmates to live with
+  - when should I look for a flat
+  - when should I look for a house
+  - where do I look to find a house
+  - where do I look to find a flat
+  - where should I live while studying
+  - where can I find potential flats to live
+  - where can I find affordable private accommodation
+  - which letting agent should I use
+  - i think i am getting scammed by my landlord
+  - how can I budget my spending for the rent
+  - how can I budget my spending for the flat
+  - do I need to pay council tax
+  - what can I do to stay safe while living in a rented property
+  - should I live alone or flat share
+  - where can I find flats for my family
+  - what can I be charged for by my landlord
+  - what can I be charged for by my agent
+  - what can't I be charged for by my landlord 
+  - what can't I be charged for by my agent
+  - what if I change my mind on the rented property before moving in
+  - can I negotiate the rent
+  - what should I ensure I do before renting a property
+  - do I need a guarantor
+  - what if I don't have (can't find) a guarantor
+  - can Imperial be my guarantor
+  - do I need to have a right to rent
+  - what's the difference between imperial private housing and student accommodation
+  - is the private housing from imperial cheaper
+  - how much does private housing usually cost
+  - does private housing in imperial have an agent
+  - where can i find more info on imperial private housing
+  - where can I find affordable private acommodation
+  - where can I find affordable private accomodation
+  - where can I find affordable private acomodation
+  - what's the difference between imperial private housing and student acomodation
+  - what's the difference between imperial private housing and student acommodation
+  - what's the difference between imperial private housing and student accomodation
+  - am i exempt from council tax
+  - where can I find a flatmate
+  - find flatmate
+  - private housing
+  - renting a flat
+  - flat rental
+  - private landlord
+  - landlord
+  - letting agent
+  - lettings agent
+  - I have no flatmates
+  - no flatmates

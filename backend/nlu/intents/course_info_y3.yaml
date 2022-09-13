@@ -1,0 +1,74 @@
+type: intent
+name: course_info_y3
+utterances:
+  - what is the course regulation for 3rd year students
+  - what is the course regulation for third year students
+  - what is the course regulation for year three students
+  - year 3
+  - third year
+  - how many modules can i take in year 3
+  - who teaches 60021
+  - what is the recommended reading list for advanced computer architecture
+  - i don't like math modules, what can i take in year 3
+  - what is operations research
+  - is graphics hard
+  - i want to take custom computing, what do i need to prepare
+  - how many people are there in a group for the 3rd year group project
+  - how long is the third year software engineering group project
+  - which language do i need to use for software group project
+  - what do i need to prepare for concurrent programming
+  - is operation research a math module
+  - who teaches operations research
+  - what is simulation and modelling
+  - i want to see the course info on simulation and modelling
+  - i need the course infomation on simulation and modelling
+  - how much does the coursework weight on type systems
+  - how many coursework will i have for type ststems
+  - who teaches intro to ml
+  - is intro to ml easy
+  - how much does the exam weight on intro to ml
+  - introduction to machine learning
+  - do i have to take i-explore in third year
+  - is i-explore compulsory in 3rd year
+  - is robotics in spring term or autumn term
+  - what is system performance engineering
+  - is third year network taught by kgk
+  - what language should i use for 3rd year group project
+  - give me more info on computer vision
+  - modules for third year
+  - modules for year 3
+  - year 3 modules
+  - third year modules
+  - where can i get information on computer vision 
+  - where can i get information on distributed algorithm
+  - i want to see the module description of 60007
+  - where can i access to the module description of advanced computer architecture
+  - i need more info on simulation and modelling
+  - what's the syllabus of 60019
+  - where can i see the syllabus of 60003
+  
+
+---
+
+type: entity
+name: third year modules
+values: 
+  - [year three, 3rd year, 3rd years, third year, third years]
+  - ["60021", software engineering group project, software group project]
+  - ["60001", advanced computer architecture, aca, advanced architecture]
+  - ["60007", the theory and practice of concurrent programming, concurrent programming]
+  - ["60016", operations research, operation research]
+  - ["60020", simulation and modelling, simulation, modelling]
+  - ["60023", type systems for programming languages, type system, type systems]
+  - ["70050", introduction to machine learning, machine learning, ml, intro to ml]
+  - ["60002", advanced databases, advanced database]
+  - ["60003", communicating computer science in schools, communicating]
+  - ["60005", graphics]
+  - ["60006", computer vision]
+  - ["60008", custom computing]
+  - ["60009", distributed algorithms, distributed algorithm]
+  - ["60013", logic-based learning]
+  - ["60015", network and web security, third year network]
+  - ["60017", system performance engineering]
+  - ["60019", robotics] 
+  - [third year i explore, i explore, i-explore] 

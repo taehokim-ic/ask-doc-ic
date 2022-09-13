@@ -1,0 +1,68 @@
+type: intent
+name: crime
+utterances:
+  - where can I report a crime
+  - how can I report a crime
+  - who should I contact if there's a security issue
+  - I am being bullied, who should I tell
+  - Someone has stolen my phone from my pocket. How can I get it back
+  - sexually molested
+  - sexually assaulted
+  - how do i report sexual harassment
+  - how do i report rape
+  - how do i report stolen goods
+  - raped
+  - stolen goods
+  - item stolen
+  - i want to report sexual harassment
+  - i want to report rape
+  - report rape
+  - rape
+  - i want to report for stolen item
+  - i want to report burgulary
+  - i want to report a crime
+  - i have been mugged
+  - i have had my phone stolen
+  - i have had my computer stolen
+  - i have been pick pocketed
+  - i feel unsafe at night
+  - should i call the police
+  - i witnessed a burglary. 
+  - should i report a theft
+  - how do i report a theft
+  - i need to contact the police
+  - What do I do if my laptop has been stolen
+  - How do I contact the emergency services
+  - What are the campus emergency numbers
+  - Is there anyone on campus that can help me to file a security report about an incident
+  - I know someone who is being bullied is there anyone in the department that I can talk to about it
+  - My friend has previously been sexually harassed. Where can I report this
+  - How do I know if i am being cyber-bullied
+  - I may be being stalked and feel unsafe.
+  - One of my flatmates is acting racist towards my friends. Should I report this
+  - I think that my friend is a drug addict. What can I do to help him
+  - i got robbed
+  - Someone took my laptop from labs. Is there a lost property I can look in
+  - The front wheel of my bike has been stolen
+  - My neighbour smokes weed outside every morning. Who do I report this to, and what evidence should I collect
+  - My neighbours are extremely loud and are disrupting my sleep. Is this legal
+  - i need to report a crime
+  - i want to report a crime
+  - what is the hotline for reporting a crime
+  - can i report a crime inside imperial
+  - break into flat
+  - broke into flat
+  - someone broke into my flat
+  - flat invaded
+  - intruder flat
+  - intruded my flat
+  - flat intruded
+  - i broke something
+  - i broke a lab computer
+  - i broke
+  - i broke the lab's door
+  - i broke a lab computer
+  - i broke a window
+  - i broke a mirror
+  - i broke a door
+  - i am stuck in the lift

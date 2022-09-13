@@ -1,0 +1,73 @@
+type: intent
+name: food_and_drinks
+utterances:
+  - where's the college bar
+  - what is the opening times for FiveSixEight
+  - where's the union bar
+  - what's the opening time for union bar
+  - is union bar next to Beit
+  - is union bar in Beit
+  - is fivesixeight the union bar
+  - what is h bar
+  - where can i see the menu of union bar
+  - when does the union bar close
+  - how much does it usually cost at reynolds
+  - where is college bar
+  - does imperial have an union bar
+  - what is metric
+  - where is h bar
+  - is there any event for metric
+  - what drinks does fivesixeight have
+  - do i need my id card to go inside union bar
+  - can i book a bar
+  - is there a club night
+  - does imperial have a club
+  - does metric open everyday
+  - what is Imperial's nightclub
+  - where is metrics
+  - when does metrics open
+  - I want to see events at metrics
+  - i want to see events at reynolds bar
+  - where can i eat
+  - where can i have lunch
+  - can i go to scr to eat
+  - am i allowed to eat in scr
+  - is there a vegan place on campus
+  - where can i eat if i am vegan
+  - where can i get dinner
+  - where can i get lunch
+  - i need food
+  - i am hungry, where can i eat
+  - what is senior common room
+  - what is junior common room
+  - where is senior common room
+  - where is junior common room
+  - halal food
+  - muslim food
+  - ethnic food
+  - kosher food
+  - where can i get food from
+  - where can i get drinks from
+  - scr
+  - jcr
+  - junior common room
+  - senior common room
+  - where can i buy vegan food
+  - i want halal food
+  - where can i get halal food
+  - where can i get kosher food
+
+
+---
+
+type: entity
+name: food and drinks
+values:
+  - bar
+  - metric
+  - fivesixeight
+  - [the union bar, union bar, college bar, imperial bar]
+  - reynolds bar
+  - [h-bar, h bar]
+  - book a venue
+  - [bar policies, bar policy]

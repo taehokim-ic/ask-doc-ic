@@ -1,0 +1,153 @@
+type: intent
+name: general_accommodation
+utterances:
+  - I need accommodation for next year
+  - i need accommodation info
+  - where can i find accommodation info
+  - where can i find accommodation information
+  - accommodation web page
+  - how can i contact accommodation team
+  - where can i find summer accommodation info
+  - how many student halls does imperial have
+  - can i change my accommodation
+  - can i get refund if i don't like and want to quite my student accommodation
+  - how can i get refund for my student accommodation
+  - can i stay in my accommodation over easter break
+  - can i stay in my accommodation over christmas
+  - which student hall can i stay in second year
+  - which student hall can i stay if i am not first year
+  - which student hall can i stay if i am non-first-year
+  - how much does student accommodation usually cost
+  - can i switch my student hall
+  - how can i report a problem for my student hall
+  - how to find student accommodation for next year
+  - who should i email if i have questions for student accommodation
+  - what's the email address of student accommodation team
+  - what's the phone number of student accommodation team
+  - where can i stay next year
+  - how to find accommodation for next year
+  - where can i stay over summer
+  - which student accommodation can i stay over summer
+  - what's the advantage of staying in a student accommodation
+  - can i still apply to stay in imperial student accommodation in second year
+  - can i still apply to imperial student accommodation as non-fresher
+  - how can i apply to imperial summer student accommodation 
+  - what should i do if i don't like my student accommodation
+  - who should i contact if i dislike my student accommodation
+  - I need acomodation for next year
+  - i need acomodation info
+  - where can i find acomodation info
+  - where can i find acomodation information
+  - acomodation web page
+  - how can i contact acomodation team
+  - where can i find summer acomodation info
+  - how many student halls does imperial have
+  - can i change my acomodation
+  - can i get refund if i don't like and want to quite my student acomodation
+  - how can i get refund for my student acomodation
+  - can i stay in my acomodation over easter break
+  - can i stay in my acomodation over christmas
+  - which student hall can i stay in second year
+  - which student hall can i stay if i am not first year
+  - which student hall can i stay if i am non-first-year
+  - how much does student acomodation usually cost
+  - can i switch my student hall
+  - how can i report a problem for my student hall
+  - how to find student acomodation for next year
+  - who should i email if i have questions for student acomodation
+  - what's the email address of student acomodation team
+  - what's the phone number of student acomodation team
+  - where can i stay next year
+  - how to find acomodation for next year
+  - where can i stay over summer
+  - which student acomodation can i stay over summer
+  - what's the advantage of staying in a student acomodation
+  - can i still apply to stay in imperial student acomodation in second year
+  - can i still apply to imperial student acomodation as non-fresher
+  - how can i apply to imperial summer student acomodation 
+  - what should i do if i don't like my student acomodation
+  - who should i contact if i dislike my student acomodation
+  - I need accomodation for next year
+  - i need accomodation info
+  - where can i find accomodation info
+  - where can i find accomodation information
+  - accomodation web page
+  - how can i contact accomodation team
+  - where can i find summer accomodation info
+  - how many student halls does imperial have
+  - can i change my accomodation
+  - can i get refund if i don't like and want to quite my student accomodation
+  - how can i get refund for my student accomodation
+  - can i stay in my accomodation over easter break
+  - can i stay in my accomodation over christmas
+  - which student hall can i stay in second year
+  - which student hall can i stay if i am not first year
+  - which student hall can i stay if i am non-first-year
+  - how much does student accomodation usually cost
+  - can i switch my student hall
+  - how can i report a problem for my student hall
+  - how to find student accomodation for next year
+  - who should i email if i have questions for student accomodation
+  - what's the email address of student accomodation team
+  - what's the phone number of student accomodation team
+  - where can i stay next year
+  - how to find accomodation for next year
+  - where can i stay over summer
+  - which student accomodation can i stay over summer
+  - what's the advantage of staying in a student accomodation
+  - can i still apply to stay in imperial student accomodation in second year
+  - can i still apply to imperial student accomodation as non-fresher
+  - how can i apply to imperial summer student accomodation 
+  - what should i do if i don't like my student accomodation
+  - who should i contact if i dislike my student accomodation
+  - I need acomodation for next year
+  - i need acomodation info
+  - where can i find acomodation info
+  - where can i find acomodation information
+  - acomodation web page
+  - how can i contact acomodation team
+  - where can i find summer acomodation info
+  - how many student halls does imperial have
+  - can i change my acomodation
+  - can i get refund if i don't like and want to quite my student acomodation
+  - how can i get refund for my student acomodation
+  - can i stay in my acomodation over easter break
+  - can i stay in my acomodation over christmas
+  - which student hall can i stay in second year
+  - which student hall can i stay if i am not first year
+  - which student hall can i stay if i am non-first-year
+  - how much does student acomodation usually cost
+  - can i switch my student hall
+  - how can i report a problem for my student hall
+  - how to find student acomodation for next year
+  - who should i email if i have questions for student acomodation
+  - what's the email address of student acomodation team
+  - what's the phone number of student acomodation team
+  - where can i stay next year
+  - how to find acomodation for next year
+  - where can i stay over summer
+  - which student acomodation can i stay over summer
+  - what's the advantage of staying in a student acomodation
+  - can i still apply to stay in imperial student acomodation in second year
+  - can i still apply to imperial student acomodation as non-fresher
+  - how can i apply to imperial summer student acomodation 
+  - what should i do if i don't like my student acomodation
+  - who should i contact if i dislike my student acomodation
+  - i've got a problem with my accommodation
+  - i've got a problem with my acommodation
+  - i've got a problem with my accomodation
+  - i've got a problem with my acomodation
+  - my room is flooding
+  - my room is
+  - room fault
+  - in my room
+  - faulty room
+  - locked out of room
+  - i locked myself out of my room
+  - got locked out
+  - pests 
+  - pest control
+  - rat 
+  - cockroaches
+  - bugs
+  - insects

@@ -1,0 +1,126 @@
+type: intent
+name: illness
+utterances:
+# Variations of feeling ill
+  - i feel ill
+  - i feel sick
+  - i feel unwell
+  - i don't feel well
+  - i don't feel too well
+  - i don't feel very well
+  - i don't feel good
+  - i don't feel too good
+  - i don't feel very good
+  - i feel like i am sick
+  - i feel like i am ill
+  - i feel like i am poorly
+  - i feel like i am not good
+  - i feel like i am unwell
+  - i feel like i have an illness
+  - i feel very sick
+  - i feel poorly
+  - i'm ill
+  - i am ill
+  - i'm unwell
+  - i'm not well
+  - i am unwell
+  - i'm poorly
+  - i am poorly
+  - i'm sick
+  - i am sick
+  - i'm not sure what's wrong with me
+  - i don't feel myself
+  - i don't feel like myself
+  - i feel off
+  - i don't feel ok
+  - i want to talk to someone
+  - i want to speak to someone
+  - i am suffering from an illness
+  - i have an illness
+  
+  # Ailments and medical problems 
+  - my arm hurts
+  - my eye hurts
+  - my leg hurts
+  - my finger hurts
+  - my neck hurts
+  - my back hurts
+  - my ankle hurts
+  - my head hurts
+  - my arm is broken
+  - i have broken my arm
+  - my leg is broken
+  - i have broken my leg
+  - i have broken my finger
+  - my finger is broken
+  - i have burnt my skin
+  - my skin is burnt
+  - i am bleeding
+  - my arm is bleeding
+  - my foot is bleeding
+  - my nose is bleeding
+  - my ear is bleeding
+  - my leg is bleeding
+  - my foot is swollen
+  - my finger is swollen
+  - my hand is swollen
+  - my ankle is swollen
+  - my ankle is dislocated
+  - my elbow is dislocated
+  - i have severe stomach pain
+  - i am in pain
+  - i have severe pain
+  - i have bruised myself badly
+  - my skin is bruised
+  - my leg is sore
+  - my arm is sore
+  - i think i have broken my arm. what do i do
+  - i've broken my arm. what should i do
+  - i think i have bruised my eye. what do i do
+  - i've bruised my eye. what should i do
+  - i think i have dislocated my toe. what do i do
+  - i've dislocated my toe. what should i do
+  - i think i have badly burned my skin. what do i do
+  - i've badly burned my skin. what should i do
+  - i think i have burst my eardrum. what do i do
+  - i've burst my eardrum. what should i do
+  - broken something
+  - cut skin
+  - break in leg
+  - broken bone
+  - fractured bone
+  - bone break
+  - twisted ankle
+  - throwing up
+  - vomit
+  - vomiting 
+  - puke
+  - puking
+  - diarrhea
+  - food poisoning
+  - nose bleed
+  - constipation
+  - flu
+  - i have broken something
+  - i have a broken leg
+  - i have a broken bone
+  - i have a fractured bone
+  - i have a bone break
+  - i keep throwing up
+  - i keep vomiting
+  - i keep puking
+  - i have diarrhea
+  - i have a hurt eye
+  - i have a nose bleed
+  - i have constipation
+  - i have severe constipation
+  - i have the flu
+  - i think i have the flu
+  - i think i have covid
+  - i think i have covid-19
+  - i think i have coronavirus
+  - i think i have long covid
+  - i think i have long covid-19
+  - i think i have long coronavirus
+
+ 

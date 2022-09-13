@@ -1,0 +1,20 @@
+type: intent
+name: student_interruption
+utterances:
+  - can i interrupt my studies
+  - how do i interrupt my studies
+  - should i interrupt my studies
+  - i want to take a break from my studies
+  - can i take a break from my studies
+  - break from studies
+  - study break
+  - taking a break from imperial
+  - i want to interrupt my studies
+  - interruption to studies information
+  - where can i find information for interruption to studies
+  - where can i find information for interruption of studies
+  - interrupt studies
+  - i want to interruption to studies
+  - i want to interrupt studies
+  - how to take a year off from studies
+  - can i take a break from imperial

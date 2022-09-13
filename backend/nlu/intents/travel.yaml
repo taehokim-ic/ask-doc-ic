@@ -1,0 +1,114 @@
+type: intent
+name: travel
+utterances:
+  - what discount can I get if I'm travelling by [transport method] (tube)
+  - what travel information is there for [student type] (international students)
+  - what are my travel options for travelling to [campus type] (south kensington) campus
+  - how do I book the [transport method] (shuttle bus)
+  - can I get a [discount] (18+ oyster card)
+  - can part time students get a [discount] (18+ oyster card) # Is this too similar to the above question?
+  - how do I top up my [card] (18+ oyster card)
+  - can I get [insurance] (travel insurance)
+  - what can an [card] (18+ oyster card) be [purpose] (used) for
+  - what is the [proximity] (closest) [station] (tube station) to [campus type] (south kensington) campus
+  - how do i get to campus
+  - how can i get to campus
+  - what are the travel options to get to campus
+  - information on travel options
+  - travel options information
+  - how do i cycle to campus
+  - cycling to campus
+  - taking a bus to campus
+  - student travel card discounts
+  - oyster student card discount
+  - oyster card
+  - cycling
+  - car parking
+  - car
+  - bus
+  - underground
+  - taking tube 
+
+---
+
+type: entity
+name: transport method
+values:
+  - [tube, train]
+  - [bus, coach]
+  - [bike, cycle]
+  - [shuttle bus, Imperial shuttle bus, shuttle]
+
+---
+
+type: entity
+name: student type
+values:
+  - [international students, internationals, oversees students, international status]
+  - [home students, uk students, home status]
+
+---
+
+type: entity
+name: campus type
+values:
+  - [south kensington, sk]
+  - [white city, wc]
+  - [hammersmith, hs]
+  - [charing cross, cc]
+  - [chelsea and westminster, cw]
+  - [st mary's, sm]
+  - [silwood park, sp]
+  - [central middlesex hospital, cmh]
+  - [royal brompton, rb]
+
+---
+
+type: entity
+name: discount
+values:
+  - [oyster, 18+ oyster, oyster card, photo card]
+  - [railcard, 16-25 railcard, student railcard]
+  - [bus season ticket, bus ticket]
+
+
+---
+
+type: entity
+name: card
+values:
+  - [oyster, 18+ oyster, oyster card, photo card]
+
+
+---
+
+type: entity
+name: purpose
+values:
+  - [use, used, purpose, goal, aim]
+
+
+---
+
+type: entity
+name: insurance
+values:
+  - [travel insurance, liability insurance]
+
+
+---
+
+type: entity
+name: proximity
+values:
+  - [closest, close, nearest, near, not far]
+
+
+---
+
+type: entity
+name: station
+values:
+  - [tube, underground, station, tube station, underground station, train station, metro, metro station, subway, subway station]
+
+

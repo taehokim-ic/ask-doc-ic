@@ -1,0 +1,81 @@
+type: intent
+name: dental
+utterances:
+  - i have tooth decay
+  - i have a decaying tooth
+  - my teeth hurts
+  - i have a toothache
+  - how to i register with the dental centre
+  - i want to register with the dental centre
+  - where is the location of the dental center
+  - i want to get more information on the dental centre
+  - i would like to register with the dental center
+  - dental centre registration
+  - where can i get dental services
+  - i want to get teeth whitening
+  - where can i get teeth scaling
+  - is there a place where i can get my teeth whitened
+  - i want to register with a dental clinic
+  - what options are available in dental centre
+  - what treatments are available in dental center
+  - what treatments are available at imperial dental center
+  - i want to know about the treatments available at imperial dental center
+  - what kind of dental treatment can i get
+  - how do i register with imperial dental centre
+  - how do i register with imperial's dental clinic
+  - my teeth is hurting so much 
+  - my gum hurts
+  - i broke my tooth
+  - i need to get a new crown for my tooth
+  - i need to get resin filled in my tooth
+  - what resin filling options are available at dental clinics
+  - where can i find more information on the treatment options at a dental clinic
+  - where is the nearest dental clinic
+  - can i get more information on dental clinic
+  - information on dental procedures
+  - dental clinic information please
+  - I have pain in my gums
+  - Where can i get information on braces
+    - i want to register with the dental centre
+  - i want to register with a dentist
+  - where is the location of the dental center
+  - where can i find the dentist
+  - what is the location of the dentist
+  - i want to get more information on the dental centre
+  - i would like to register with the dental center
+  - dental centre registration
+  - where can i get dental services
+  - i want to get teeth whitening
+  - where can i get teeth scaling
+  - is there a place where i can get my teeth whitened
+  - i want to register with a dental clinic
+  - what options are available in dental centre
+  - what treatments are available in dental center
+  - what treatments are available at imperial dental center
+  - i want to know about the treatments available at imperial dental center
+  - what kind of dental treatment can i get
+  - how do i register with imperial dental centre
+  - how do i register with imperial's dental clinic
+  - my teeth is hurting so much 
+  - my gum hurts
+  - i broke my tooth
+  - i need to get a new crown for my tooth
+  - i need to get resin filled in my tooth
+  - what resin filling options are available at dental clinics
+  - where can i find more information on the treatment options at a dental clinic
+  - where is the nearest dental clinic
+  - can i get more information on dental clinic
+  - information on dental procedures
+  - dental clinic information please
+  - i need to go to the dentist
+  - where can i find the dentist
+  - i am worried about my teeth. what do i do
+  - i am worried about my teeth. what should i do
+  - i am worried about my gums. what do i do
+  - i am worried about my gums. what should i do
+  - my teeth are bleeding. what should i do
+  - my teeth are bleeding. what do i do
+  - can i get my wisdom teeth removed
+  - can i get advice on fillings
+  - how much does the dentist cost
+  - i need to go to the dentist

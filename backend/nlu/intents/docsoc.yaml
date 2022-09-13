@@ -1,0 +1,20 @@
+type: intent
+name: docsoc
+utterances:
+  - Who are the current docsoc committee members
+  - What and when is ICHack
+  - How do I join ICHack
+  - what is docsoc
+  - am i a member of docsoc
+  - do i have to pay for docsoc
+  - where can i see the events of docsoc
+  - how many evens are there for docsoc
+  - docsoc welcome dinner
+  - i want to see docsoc events
+  - who's in docsoc committee 
+  - when can i run for docsoc committe
+  - what does docsoc do
+  - what event does docsoc have
+  - i want to see docsoc event
+  - how to join a docsoc event
+  - when is the next docsoc event

@@ -1,0 +1,49 @@
+type: intent
+name: careers
+utterances:
+  - How do I make an appointment with the careers team
+  - What is jobsLive
+  - What does the careers library offer for first years
+  - What can I do with my degree in the future
+  - How do I find jobs and occupations
+  - What do imperial graduates do
+  - How do I start a business
+  - I'm not sure if I should take a year out. What do I do
+  - Where can I work in industry with my degree
+  - Where can I find unpaid work
+  - I want some advice on working abroad
+  - Are there any awards I can get to make myself stand out
+  - How do I write a good cover letter
+  - I need help completing an application form
+  - How do I write a convincing personal statement
+  - Who can I ask to be my reference
+  - What can I do to be better at interviews
+  - I have a fear of presentations, how can I overcome it
+  - What fairs are the career service running
+  - How can I use LinkedIn to improve my networking
+  - What are career panels
+  - what can i do with my degree
+  - as a computing student, what career can i pursue
+  - When should I apply for internships
+  - What can I do if I have no work experience
+  - Where can I get a list of companies to apply to for internships
+  - where can I get advice on applying for jobs
+  - how can i find a job
+  - i want to find a job, what should i do
+  - i need to find a placement, what should i do
+  - how to find a placement
+  - i have an upcoming interview
+  - How do I apply for a phd
+  - where can i apply for phd
+  - when should i apply for phd
+  - application for phd
+  - i want to apply for phd
+  - I want someone to check my CV
+  - can someone check my cv
+  - where can i check my cv
+  - can someone modify my CV
+  - where can i apply for an internship
+  - job information
+  - cv review 
+  - cv screening
+  - job interview

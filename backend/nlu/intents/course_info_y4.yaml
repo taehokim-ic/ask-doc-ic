@@ -1,0 +1,71 @@
+type: intent
+name: course_info_y4
+utterances:
+  - how much do the exams weight in year four
+  - 4th year
+  - fourth year
+  - modules for fourth year
+  - year 4 modules
+  - where can i see all modules in year four
+  - i want to see fourth year modules
+  - i need to see 4th year modules
+  - how much does the individual project weight
+  - who teaches advanced computer security
+  - what's the recommended reading list for complexity
+  - is Tony teaching complexity
+  - what are the pre-requisites for deep learning
+  - are there any pre-requisites for nlp
+  - i want to see the pre-requisites for decentralised finance
+  - i want to see the recommended reading list for cryptography engineering
+  - is 70018 hard
+  - how much does the exam weight for program analysis
+  - where can i see the assessments for probabilistic inference
+  - is scalable systems taught by Paul
+  - who is the lecturer of advanced computer graphics
+  - if i want to take advanced computer graphics, do i need to take graphics in third year
+  - if i want to take 70006, is operations research a prerequisite
+  - where can i see the a prerequisite for all modules
+  - what course do i had to take in order to take scalable systems and data
+  - if i didn't take intro to ml in third year, can i still take reinforcement learning
+  - if i didn't take comp tech in second year, will there be a problem for me to take 70015
+  - i want to see course info on custom computing
+  - what is probabilistic inference
+  - if i have no experience in finance, can i take decentralised finance
+  - i know nothing about finance, will there be a trouble for taking decentralised finance
+
+---
+
+type: entity
+name: fourth year
+values: 
+  - [year four, 4th year, fourth years, fourth year]
+  - ["70012", industrial placement, placement]
+  - ["70011", individual project]
+  - ["60001", advanced computer architecture, aca, advanced architecture]
+  - ["60020", simulation and modelling, simulation, modelling]
+  - ["70004", advanced computer security]
+  - ["70005", complexity]
+  - ["70006", computational finance]
+  - ["70008", concurrent processes]
+  - ["70015", mathematics for machine learning]
+  - ["70018", privacy engineering]
+  - ["70020", program analysis]
+  - ["70022", scalable systems and data]
+  - ["70023", scalable software verification]
+  - ["70028", reinforcement learning]
+  - ["70068", scheduling and resource allocation]
+  - ["60008", custom computing]
+  - ["70001", advanced computer graphics]
+  - ["70007", computational optimisation]
+  - ["70009", cryptography engineering]
+  - ["70010", deep learning]
+  - ["70016", natural language processing, nlp]
+  - ["70017", principles of distributed ledgers]
+  - ["70019", probabilistic inference]
+  - ["70024", software reliability]
+  - ["70025", software engineering for industry]
+  - ["70030", knowledge representation]
+  - ["70031", modal logic for strategic reasoning in ai]
+  - ["70066", decentralised finance]
+  - ["70067", robot learning and control]
+

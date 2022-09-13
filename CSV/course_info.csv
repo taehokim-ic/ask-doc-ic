@@ -1,0 +1,72 @@
+category,module,keyword,link
+first year,general,First Year General,https://www.imperial.ac.uk/computing/current-students/computing/computing-first-year/
+first year,40001,Introduction to Computer System,http://www.imperial.ac.uk/computing/current-students/courses/40001
+first year,40007,Introduction to Databases,https://www.imperial.ac.uk/computing/current-students/courses/40007/
+first year,40016,Calculus,https://www.imperial.ac.uk/computing/current-students/courses/40016/
+first year,40009,Computing Practical,https://www.imperial.ac.uk/computing/current-students/courses/40009/
+first year,40018,Discrete Mathematics,https://www.imperial.ac.uk/computing/current-students/courses/40018/
+first year,40005,Introduction to Computer Architecture,https://www.imperial.ac.uk/computing/current-students/courses/40005/
+first year,40008,Graphs and Algorithms,https://www.imperial.ac.uk/computing/current-students/courses/40008/
+first year,40017,Linear Algebra,https://www.imperial.ac.uk/computing/current-students/courses/40017/
+second year,general,Second Year General,https://www.imperial.ac.uk/computing/current-students/computing/computing-second-year/
+second year,50001,Algorithm Design and Analysis,https://www.imperial.ac.uk/computing/current-students/courses/50001/
+second year,50002,Software Engineering Design,https://www.imperial.ac.uk/computing/current-students/courses/50002/
+second year,50003,Models of Computation,https://www.imperial.ac.uk/computing/current-students/courses/50003/
+second year,50004,Operating Systems,https://www.imperial.ac.uk/computing/current-students/courses/50004/
+second year,50005,Networks and Communications,https://www.imperial.ac.uk/computing/current-students/courses/50005/
+second year,50006,Compilers,https://www.imperial.ac.uk/computing/current-students/courses/50006/
+second year,50007,Laboratory 2,https://www.imperial.ac.uk/computing/current-students/courses/50007/
+second year,50008,Probability and Statistics,https://www.imperial.ac.uk/computing/current-students/courses/50008/
+second year,50010,Designing For Real People,https://www.imperial.ac.uk/computing/current-students/courses/50010/
+second year,50009,Symbolic Reasoning,https://www.imperial.ac.uk/computing/current-students/courses/50009/
+second year,50011,Computational Techniques,https://www.imperial.ac.uk/computing/current-students/courses/50011/
+third year,general,Third Year MEng General,https://www.imperial.ac.uk/computing/current-students/computing/comp-third-meng/
+third year,general,Third Year BEng General,https://www.imperial.ac.uk/computing/current-students/computing/comp-third-beng/
+third year,60021,Software Engineering Group Project,https://www.imperial.ac.uk/computing/current-students/courses/60021/
+third year,60001,Advanced Computer Architecture,https://www.imperial.ac.uk/computing/current-students/courses/60001/
+third year,60007,the Theory and Practice of Concurrent Programming,https://www.imperial.ac.uk/computing/current-students/courses/60007/
+third year,60010,Individual Project BEng,https://www.imperial.ac.uk/computing/current-students/courses/60010/
+third year,60016,Operations Research,https://www.imperial.ac.uk/computing/current-students/courses/60016/
+third year,60020,Simulation and Modelling,https://www.imperial.ac.uk/computing/current-students/courses/60020/
+third year,60023,Type Systems for Programming Languages,https://www.imperial.ac.uk/computing/current-students/courses/60023/
+third year,70050,Introduction to Machine Learning,https://www.imperial.ac.uk/computing/current-students/courses/70050/
+third year,60002,Advanced Databases,https://www.imperial.ac.uk/computing/current-students/courses/60002/
+third year,60003,Communicating Computer Science in Schools,https://www.imperial.ac.uk/computing/current-students/courses/60003/
+third year,60005,Graphics,https://www.imperial.ac.uk/computing/current-students/courses/60005/
+third year,60006,Computer Vision,https://www.imperial.ac.uk/computing/current-students/courses/60006/
+third year,60008,Custom Computing,https://www.imperial.ac.uk/computing/current-students/courses/60008/
+third year,60009,Distributed Algorithms,https://www.imperial.ac.uk/computing/current-students/courses/60009/
+third year,60013,Logic-based Learning,https://www.imperial.ac.uk/computing/current-students/courses/60013/
+third year,60015,Network and Web Security,https://www.imperial.ac.uk/computing/current-students/courses/60015/
+third year,60017,System Performance Engineering,https://www.imperial.ac.uk/computing/current-students/courses/60017/
+third year,60019,Robotics,https://www.imperial.ac.uk/computing/current-students/courses/60019/
+fourth year,70012,Industrial Placement,https://www.imperial.ac.uk/computing/current-students/courses/70012/
+fourth year,70011,Individual Project,https://www.imperial.ac.uk/computing/current-students/courses/70011/
+fourth year,60001,Advanced Computer Architecture,http://www.imperial.ac.uk/computing/current-students/courses/60001
+fourth year,60002,Simulation and Modelling,http://www.imperial.ac.uk/computing/current-students/courses/60002
+fourth year,70001,Advanced Computer Graphics,http://www.imperial.ac.uk/computing/current-students/courses/70001
+fourth year,70004,Advanced Computer Security,https://www.imperial.ac.uk/computing/current-students/courses/70004/
+fourth year,70005,Complexity,https://www.imperial.ac.uk/computing/current-students/courses/70005
+fourth year,70006,Computational Finance,https://www.imperial.ac.uk/computing/current-students/courses/70006
+fourth year,70007,Computational Optimisation,https://www.imperial.ac.uk/computing/current-students/courses/70007
+fourth year,70008,Concurrent Processes,https://www.imperial.ac.uk/computing/current-students/courses/70008
+fourth year,70009,Cryptography Engineering,https://www.imperial.ac.uk/computing/current-students/courses/70009
+fourth year,70010,Deep Learning,https://www.imperial.ac.uk/computing/current-students/courses/70010
+fourth year,70015,Mathematics for Machine Learning,https://www.imperial.ac.uk/computing/current-students/courses/70015/
+fourth year,70016,Natural Language Processing,https://www.imperial.ac.uk/computing/current-students/courses/70016
+fourth year,70017,Principles of Distributed Ledgers,https://www.imperial.ac.uk/computing/current-students/courses/70017
+fourth year,70018,Privacy Engineering,https://www.imperial.ac.uk/computing/current-students/courses/70018
+fourth year,70019,Probabilistic Inference,https://www.imperial.ac.uk/computing/current-students/courses/70019
+fourth year,70020,Program Analysis,https://www.imperial.ac.uk/computing/current-students/courses/70020
+fourth year,70022,Scalable Systems and Data,https://www.imperial.ac.uk/computing/current-students/courses/70022
+fourth year,70023,Scalable Software Verification,https://www.imperial.ac.uk/computing/current-students/courses/70023
+fourth year,70024,Software Reliability,https://www.imperial.ac.uk/computing/current-students/courses/70024
+fourth year,70025,Software Engineering for Industry,https://www.imperial.ac.uk/computing/current-students/courses/70025
+fourth year,70028,Reinforcement Learning,https://www.imperial.ac.uk/computing/current-students/courses/70028
+fourth year,70030,Knowledge Representation,https://www.imperial.ac.uk/computing/current-students/courses/70030
+fourth year,70031,Model Logic for Strategic Reasoning in AI,https://www.imperial.ac.uk/computing/current-students/courses/70031
+fourth year,70066,Decentralised Finance,https://www.imperial.ac.uk/computing/current-students/courses/70066
+fourth year,70067,Robot Learning and Control,https://www.imperial.ac.uk/computing/current-students/courses/70067
+fourth year,70068,Scheduling and Resource Allocation,https://www.imperial.ac.uk/computing/current-students/courses/70068
+third year,general,BEng Computing Regulations,https://www.imperial.ac.uk/computing/current-students/course-admin/regulations/beng-comp/
+fourth year,general,MEng Computing Regulations,https://www.imperial.ac.uk/computing/current-students/course-admin/regulations/meng-comp/

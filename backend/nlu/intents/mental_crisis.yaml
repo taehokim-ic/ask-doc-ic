@@ -1,0 +1,43 @@
+type: intent
+name: mental_crisis
+utterances:
+# Crisis: Mental Health
+  - i want to talk to someone urgently
+  - i want to speak to someone urgently
+  - i am worried about my own safety
+  - i am worried for my own safety
+  - i don't feel safe
+  - i feel hopeless
+  - i feel doomed
+  - i am distressed
+  - i am in distress
+  - i am suicidal
+  - i want to commit suicide
+  - i have made plans to commit suicide
+  - i have made plans to end my life
+  - i want to kill myself
+  - i have thoughts about killing myself
+  - i have thoughts about ending my life
+  - i think i might act on suicidal thoughts
+  - i have plans to act on suicidal thoughts
+  - i am feeling suicidal
+  - i can't take it anymore
+  - i have lost the will to live
+  - i think i would be better dead
+  - i am feeling overwhelmed with life
+  - i need urgent help
+  - i need urgent support
+  - i need immediate help
+  - i'm having a mental health crisis
+  - i'm at a crisis point
+  - mental health crisis
+  - crisis point
+  - i'm struggling to cope
+  - anonymous mental health support
+  - can i get anonymous support
+  - can i get anonymous help
+  - i failed my exams and i want to kill myself
+  - where can i kill
+  # Medical Emergencies
+  - i need urgent medical attention now
+  - i need urgent medical help now

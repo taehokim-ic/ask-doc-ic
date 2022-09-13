@@ -1,0 +1,47 @@
+type: intent
+name: exercise
+utterances:
+  - ethos
+  - ethos gym
+  - gym
+  - where can i work out
+  - i want to work out
+  - i want to get big
+  - how to get bigger 
+  - where is the gym located
+  - imperial gym
+  - imperial student gym
+  - student discounted gym
+  - where is ethos located
+  - i want to know how i can get to ethos
+  - are there any discounts available for gym
+  - how much does ethos cost
+  - what gyms are available for imperial students
+  - bareball
+  - bench
+  - benchpress 
+  - lifting
+  - threadmill
+  - swimming pool
+  - where can i swim in imperial
+  - basketball
+  - where can i play basketball in imperial
+  - sauna in imperial
+  - sauna
+  - steam room
+  - where can i play squash in imperial
+  - personal training
+  - where can i get personal training from
+  - pt
+  - climbing wall
+  - indoor climbing
+  - is there a place where i can indoor climb
+  - imperial indoor climbing
+  - imperial climbing
+  - gym membership
+  - discounted gym membership
+  - gym member
+  - ethos gym membership
+  - working out
+  - work out
+  

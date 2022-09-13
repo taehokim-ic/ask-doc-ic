@@ -1,0 +1,62 @@
+type: intent
+name: summer_accommodation
+utterances:
+  - what summer accommodations are available
+  - i want to stay in a summer accommodation
+  - i want to get information on summer halls
+  - what students halls are available in the summer
+  - information for summer accommodation
+  - help with finding summer halls
+  - can i get information for summer accommodation
+  - availability for summer accommodation
+  - i want to know what summer accommodations are available
+  - what halls are available over the summer
+  - i need a accommodation for the summer
+  - can you tell me about summer accommodation options
+  - what options are there for summer accommodation
+  - i want to know halls that are available over the summer
+  - how do i get an accommodation over the summer
+  - how can i get student halls for the summer
+  - i need to stay in student halls over the summer
+  - i need to stay in student accommodation during summer
+  - can i please get some information on summer student halls
+  - what do i have to do to stay in accommodation during summer
+  - where can i find more information on summer accommodation
+  - i want to know more about summer student halls
+  - when should i apply to summer accommodation
+  - i want to stay in a summer acomodation
+  - information for summer acomodation
+  - can i get information for summer acomodation
+  - availability for summer acomodation
+  - i need a acomodation for the summer
+  - can you tell me about summer acomodation options
+  - what options are there for summer acomodation
+  - how do i get an acomodation over the summer
+  - i need to stay in student acomodation during summer
+  - what do i have to do to stay in acomodation during summer
+  - where can i find more information on summer acomodation
+  - when should i apply to summer acomodation
+  - i want to stay in a summer accomodation
+  - information for summer accomodation
+  - can i get information for summer accomodation
+  - availability for summer accomodation
+  - i need a accomodation for the summer
+  - can you tell me about summer accomodation options
+  - what options are there for summer accomodation
+  - how do i get an accomodation over the summer
+  - i need to stay in student accomodation during summer
+  - what do i have to do to stay in accomodation during summer
+  - where can i find more information on summer accomodation
+  - when should i apply to summer accomodation
+  - i want to stay in a summer acommodation
+  - information for summer acommodation
+  - can i get information for summer acommodation
+  - availability for summer acommodation
+  - i need a acommodation for the summer
+  - can you tell me about summer acommodation options
+  - what options are there for summer acommodation
+  - how do i get an acommodation over the summer
+  - i need to stay in student acommodation during summer
+  - what do i have to do to stay in acommodation during summer
+  - where can i find more information on summer acommodation
+  - when should i apply to summer acommodation

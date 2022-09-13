@@ -1,0 +1,121 @@
+type: intent
+name: doc
+utterances:
+  - How can I apply for a UROP
+  - When do I apply for my third year placement
+  - Do I need approval to do an industrial placement
+  - how long is the industrial placement
+  - do i get paid for my industrial placement
+  - what kind of position can i apply for my industrial placement
+  - what company can i apply for industrial placement
+  - what should i do if i got no offer for my industrial placement
+  - will imperial help me to find an industrial placement
+  - how can i find an industrial placement
+  - when should i start my industrial placement
+  - how long is the computing placement
+  - how long is the jmc placement
+  - Do I need approval to do the placement
+  - do i get paid for my placement
+  - what kind of position can i apply for my placement
+  - When do I get my exam results
+  - Who is the department tutor
+  - How do I see my exam schedule
+  - Where are the resit past paper
+  - How do I apply for an Arithmetic Mark Check
+  - What percentage on an exam corresponds to the grade
+  - What happens if I fail an exam
+  - Are resists capped
+  - How many times can I resit an exam
+  - Can you fail a lab in second year
+  - When are resits
+  - Where do I apply for a coursework extension
+  - can i submit a mitigation form after I submit something late
+  - how and when can i know if my mitigation circumstance has been approved
+  - Where can I find my exam transcript
+  - Where can I find my grades
+  - When is the first exam in the exam season
+  - is there any past exam paper for resit
+  - when is resit
+  - when can i know my resit result
+  - what should i do if i fail resit
+  - where can i access resit past exam paper
+  - where can i access past exam paper for resit
+  - how long is the resit exam
+  - what is resit
+  - Where can I book labs
+  - Will college ID cards work over summer
+  - What are labs opening times
+  - What and where is the deans list
+  - Where are my old repositories
+  - How can I contact my personal tutor over summer
+  - Can we go to the senior common room
+  - Which wifi do I connect to
+  - When does the term start
+  - When does the term end
+  - Where can I get a student letter
+  - Where is Huxley
+  - Where is Maria’s office
+  - How to transfer to another school
+  - When should I apply for master degree in another school
+  - How do I change from BEng to MEng
+  - How do I change from MEng to BEng
+  - How do I change to MEng
+  - Where is the best place to go on campus if it’s so hot
+  - When were you created
+  - What is your name
+  - Who is the department tutor
+  - Who is the current DoCSoc committee
+  - Where is Huxley
+  - Where is Maria’s office
+  - Can I get extra time for exams
+  - When do I get my exam results
+  - What and where is the Dean’s List
+  - How do I see my exam schedule
+  - Where can I find past exam papers
+  - What happens if I fail an exam
+  - Are resits capped
+  - Can you fail a lab in second year
+  - When are resits
+  - How do I apply for a coursework extension
+  - Can I submit a mitigation form late
+  - When will I find out if my mitigating circumstances have been approved
+  - Where can I see my grades
+  - When is my first exam
+  - How many times can I resit an exam
+  - Where can I find DoC society information
+  - When’s the next DoC Event
+  - Will college ID cards work over summer
+  - Can I transfer from BEng to MEng
+  - Can I transfer from MEng to BEng
+  - Can I transfer from Computing to JMC
+  - How do I apply for an Arithmetic Mark Check
+  - When does the term start
+  - When does the term end
+  - Where can I find my transcript /student letter
+  - How do I transfer to a different university
+  - When should I apply for a Masters
+  - Is student support available
+  - Where are my old repositories
+  - Which Wi-Fi can I connect to
+  - When do I apply for my third-year placemen
+  - Can I go to the senior common room
+  - What and when is ICHack
+  - How do I join ICHack
+  - How do I apply for a UROP
+  - When should I submit which modules I have chosen for the next year
+  - Where do I submit which modules I want to pick
+  - How do I book Labs
+  - What are Labs opening times
+  - What programming languages am I going to learn in the first year
+  - What programming languages am I going to learn in second year
+  - What programming languages am I going to learn in third year
+  - What programming languages am I going to learn in fourth year
+  - When do I get my Haskell/Java/C exam result
+  - How do I transfer to another course
+  - Do I have to attend PMT/PPT sessions
+  - Is Horizons’ compulsory for second year
+  - what are the module weightings for my year
+  - Do I need approval to do an industrial placement
+  - How can I contact my personal tutor over summer
+  - How many people do we need for our (insert) group project
+  - Who is my personal tutor

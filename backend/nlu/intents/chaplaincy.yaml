@@ -1,0 +1,53 @@
+type: intent
+name: chaplaincy
+utterances:
+  - When and where is friday [prayer] (prayer)
+  - If I am religious, can I do [meditation] (mindfulness) as well
+  - What does the chaplaincy [events] (provide)
+  - Can I use the [prayer] (Islamic) room
+  - Is there a [events] (Catholic Mass)
+  - What is [events] (meditation)
+  - How can I start practicing [events] (meditation)
+  - Can I use the chaplaincy centre for my own [prayer] (worship) or [events] (meditation)
+  - i need to find somewhere to pray
+  - is there waddu location on campus
+  - can i leave my lectures to pray
+  - prayer information
+  - praying
+  - religion
+  - belief
+  - spirit
+  - haram
+  - halal
+
+---
+
+type: entity
+name: events
+values: 
+  - [meditation, meditating]
+  - interfaith
+  - reflection group
+  - [mass, Catholic Mass]
+  - communion
+  - evensong
+
+---
+
+type: entity
+name: prayer
+values:
+  - [muslim, Islamic]
+  - room booking
+  - [worship, practice]
+
+---
+
+type: entity
+name: meditation
+values:
+  - mindfulness
+  - buddhist
+  - christian
+
+

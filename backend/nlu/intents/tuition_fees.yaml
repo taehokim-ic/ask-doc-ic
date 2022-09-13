@@ -1,0 +1,29 @@
+type: intent
+name: tuition_fees
+utterances:
+  - where can i find information on tuition fees
+  - what is the tuition fees for next year
+  - tuition fees for international student
+  - tuition fee for student
+  - tuition fee information
+  - fees information to study at imperial
+  - what is the tuition fees for next year
+  - tuition fees next year
+  - tuition fee next year
+  - what is the tuition fees for next academic year
+  - information on tuition fees
+  - information on tuition fees
+  - what is the cost of studying in imperial
+  - how much does it cost to study in imperial
+  - how much does is the cost to study at imperial
+  - where can i get information on tuition fees for next year
+  - what are the fees for studying at imperial
+  - how much does it cost to study at imperial
+  - how much does the imperial degree cost
+  - cost of degree
+  - i want to know how much it costs to study at imperial
+  - what is the tuition fees for the following year
+  - tuition fees for the following academic year
+  - how much does it cost to study 
+  - cost of the degree
+  - imperial cost of studying

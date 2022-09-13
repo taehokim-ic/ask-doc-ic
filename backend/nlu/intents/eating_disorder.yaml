@@ -1,0 +1,40 @@
+type: intent
+name: eating_disorder
+utterances:
+  - i have an eating disorder
+  - eating problem
+  - i have eating problems
+  - i think i have an eating disorder
+  - i need help with my eating disorder
+  - i struggle with an eating disorder
+  - i have an unhealthy relationship with food
+  - i struggle with my body image
+  - i want to lose weight
+  - i am insecure about my body
+  - i am insecure about my body image
+  - i starve myself
+  - i want to starve myself
+  - eating disorder
+  - i suffer with anorexia
+  - i struggle with anorexia
+  - anorexia
+  - i suffer with bulimia
+  - i struggle with bulimia
+  - bulimia
+  - i binge
+  - i binge eat
+  - i purge
+  - binge
+  - purge
+  - i take laxatives
+  - i fast
+  - i exercise excessively
+  - i want to talk to someone about my eating disorder
+  - i feel depressed about my eating disorder
+  - i feel anxious about my eating disorder
+  - i'm worried that i have an eating disorder
+  - can i tell someone about my eating disorder
+  - who do i talk to about my eating disorder
+  - i'm losing weight
+  - i keep losing weight
+  - i have lost weight

@@ -1,0 +1,108 @@
+type: intent
+name: exam_revision
+utterances:
+  - where can i find past exam papers
+  - where can i find past programming tests
+  - find old haskell programming papers
+  - find old java programming papers
+  - find old c programming papers
+  - how can i revise for the exam
+  - where can i find revision information
+  - where can i get information to help me with revision
+  - past java programming papers
+  - past java papers
+  - past java final test
+  - past java practive test
+  - java practive test revision
+  - how do i revise for programming tests
+  - i need help with revising
+  - where can i get help with revision
+  - where can i find information on java practice test
+  - where can i find java final test
+  - where can i find haskell final test
+  - where can i find information on c final test
+  - where can i find information on programming exams
+  - how do i prepare for haskell test
+  - how can i prepare for haskell practice test
+  - how can i revise for programming test
+  - i want help with revising for java final test
+  - i need help with revising java practive test
+  - i need help with revising c final test
+  - i need information on exam revision
+  - i need information to help me with revising for exams
+  - how do i do better on my exams
+  - how do i improve on my exam
+  - how do i do a good job on the exam
+  - i want to do better on my exam
+  - i want to do well on my exam
+  - help with doing better on test
+  - i want to do better on the test
+  - i need exam information
+  - where can i access past exam paper
+  - where can i find my exam dates
+  - when is my exams
+  - i want to know my exam dates
+  - i want to know my exams dates
+  - exam info
+  - exams infomation
+  - exam website
+  - what's the exam website
+  - where can i see my exam timetables
+  - i want to see my second year exam modules
+  - i need access to the third year exam timetable
+  - where can i see my exam results
+  - where can i find exam feedbacks
+  - is there any exam feedback from examiners
+  - is there any exam feedback on 2018-2019
+  - is there any exam feedback on 2021-2022
+  - is there any exam feedback last year
+  - what is exam feedback
+  - how can i appeal for my result
+  - what's the rubrics for first year exams
+  - where can i find examiner contact details
+  - where can i find my unofficial grades
+  - i want to appeal for my exam result, what should i do
+  - there's something wrong with my exam result, what should i do
+  - how i find the contact details of the examiner
+  - when does the third year final begin
+  - where can i see my finals timetable
+  - where can i see my finals grade
+  - where can i see the finals feedbacks
+  - i want to know the date and time of my modules' exams
+  - how long is one exam in first year
+  - how long are the finals for second year
+  - how long is the Haskell exam
+  - how long is the Java final
+  - how long is the OS finial
+  - do all exams in first year 80 minutes long
+  - do all finals in second year 90 minutes long
+  - how long are 3rd year exams
+  - can i see the results of my third year finals
+  - what's the exam website
+  - how long does the exam take in 4th year
+  - are there any exam instructions
+  - what's the general exam instructions
+  - where can i get more information about the java final test
+  - where can i get information on the haskell programming test
+  - where can i get information on operating system exam
+  - information on operating system exam
+  - information on compiler exam
+  - more information on algorithm exam
+  - where can i find information on software engineering design
+  - information on network exam
+  - information on networks exam
+  - how long does network exam take
+  - i want to revise os
+  - i want to revise databases
+  - i want to revise java final
+  - exams are coming but i don't know what to do
+  - I am having trouble with exams
+  - I am having trouble with tests
+  - how can I revise for exams
+  - revise for exams
+  - exam revision
+  - how do i revise for
+  - i want to know the effective way to revise for
+  - exam revision best practices
+  - revise exam
+  - exam revise

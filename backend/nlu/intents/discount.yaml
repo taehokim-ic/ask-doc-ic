@@ -1,0 +1,64 @@
+type: intent
+name: discount
+utterances:
+  - what [discount] (discounts) can I get
+  - where can I find information about [discount] (discounts)
+  - Is there any [discount] (discount for food)
+  - is there any tip for [tips] (saving money)
+  - what [perk] (offers) are working for imperial
+  - Is there any [discount] (discount for food) for lunch on campus
+  - How can I [discount] (save money) for lunch
+  - How do I sign up for [discount] (yoyo)
+  - Lunch on campus is too expensive. Is there any way I can [discount] (save money)
+  - is there any [tips] (advice) for reducing costs as a student
+  - are there any exclusive [discount] (discounts) as an Imperial student
+  - Does the department offer [tips] (guidance) for which computers to purchase
+  - Do I have access to any [discount] (free) software
+  - What kind of [discount] (free) merchandise does DocSoc give out
+  - Is there a [perk] (rewards scheme) in place for purchases on campus
+  - Where can I get [discount] (cheaper) clothes from
+  - Are there any apps where I can get [discount] (discounted) foods from
+  - I want to find a place to have lunch
+  - I want cheap food
+  - cheap food
+  - discounted food
+  - cheap electronics
+  - cheap gadgets
+  - discounted electronics
+  - cheap place to eat
+  - how do i cut food spending
+  - reduce food spending
+  - spend less on food
+
+---
+
+type: entity
+name: discount
+values: 
+  - [discount, all discounts, discounts, save money, cheaper, cheap]
+  - [food discount, discount for food, drink discount, discount for drink]
+  - [health discount, beauty discount]
+  - [museum discount, galleries discount]
+  - yoyo
+  - free
+
+
+---
+
+type: entity
+name: tips
+values:
+  - [money saving tips, money saving tip, saving money]
+  - [advice, guidance, suggestions]
+
+---
+
+type: entity
+name: perk
+values:
+  - [perks, perk]
+  - [perks for family, perks at work]
+  - offers
+  - [rewards, rewards scheme]
+
+

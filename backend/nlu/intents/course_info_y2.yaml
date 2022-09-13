@@ -1,0 +1,180 @@
+type: intent
+name: course_info_y2
+utterances:
+  - what is the course regulation for second year students
+  - what is the course regulation for year 2 students
+  - what is the course regulation for yr2 students
+  - what is the course regulation for yr 2 students
+  - what is the course regulation for year two students
+  - what is the course regulation for 2nd year students
+  - what is the recommended reading list for 50001
+  - what is the recommended reading list for comp50001
+  - what is the recommended reading list for algorithm design and analysis
+  - what is the recommended reading list for second year algorithm
+  - what is the recommended reading list for algorithm
+  - what is the recommended reading list for 50002
+  - what is the recommended reading list for comp50002
+  - what is the recommended reading list for software engineering design
+  - what is the recommended reading list for sed
+  - what is the recommended reading list for software design
+  - what is the recommended reading list for 50008
+  - what is the recommended reading list for comp50008
+  - what is the recommended reading list for stats
+  - what is the recommended reading list for probability and statistics
+  - what is the recommended reading list for probability
+  - what is the recommended reading list for statistics
+  - what is the recommended reading list for 50006
+  - what is the recommended reading list for comp50006
+  - what is the recommended reading list for compiler
+  - what is the recommended reading list for compilers
+  - how can i prepare for wacc
+  - how can i prepare for 50007
+  - how can i prepare for comp50007
+  - how can i prepare for lab
+  - how can i prepare for laboratory
+  - how can i prepare for prolog
+  - how can i prepare for pintos
+  - how can i prepare for year 2
+  - how can i prepare for year two
+  - how can i prepare for second year
+  - how can i prepare for 2nd year
+  - how can i prepare for yr2
+  - how can i prepare for yr 2
+  - i want to see more course info on comp tech
+  - i want to see more course info on computational techniques
+  - i want to see more course info on comp50011
+  - i want to see more course info on 50011
+  - do i get to choose between comp tech and symbolic
+  - do i get to choose between comp tech and symbolic reasoning
+  - do i get to choose between computational techniques and symbolic
+  - do i get to choose between computational techniques and symbolic reasoning
+  - what books should i read for os
+  - what books should i read for operating systems
+  - what books should i read for comp50004
+  - what books should i read for 50004
+  - how can i prepare for compiler
+  - how can i prepare for compilers
+  - how can i prepare for comp50006
+  - how can i prepare for 50006
+  - who teaches comp tech
+  - who teaches computational techniques
+  - who teaches 50011
+  - who teaches comp50011
+  - is there a group project in year 2
+  - is there a group project in yr2
+  - is there a group project in yr 2
+  - is there a group project in 2nd year
+  - is there a group project in year two
+  - is there a group project in second year
+  - i want to see the information on algorithm
+  - where can i find information on algorithm
+  - i want to see the information on second year algorithm
+  - i want to see the information on 2nd year algorithm
+  - where can i find information on second year algorithm
+  - where can i find information on 2nd year algorithm
+  - i want to see the information on algorithm design and analysis
+  - where can i find information on algorithm design and analysis
+  - i want to see the information on 50001
+  - i want to see the information on comp50001
+  - where can i find information on 50001
+  - i want to see the information on comp50001
+  - can i know the content of 50001
+  - can i know the content of comp50001
+  - can i know the content of algorithm
+  - can i know the content of second year algorithm
+  - can i know the content of 2nd year algorithm
+  - can i know the content of algorithm design and analysis
+  - where can i see the course info for year 2
+  - where can i see the course info for 2nd year
+  - where can i see the course info for second year
+  - where can i see the course info for year two
+  - where can i see the course info for yr2
+  - where can i see the course info for yr 2
+  - give me the course info for year 2
+  - give me the course info for 2nd year
+  - give me the course info for second year
+  - give me the course info for year two
+  - give me the course info for yr 2
+  - give me the course info for yr2
+  - who is the lecturer of 50003
+  - who is the lecturer of comp50003
+  - who is the lecturer of model
+  - who is the lecturer of models
+  - who is the lecturer of models of computation
+  - i want to see all the modules for year 2
+  - i want to see all the modules for year two
+  - i want to see all the modules for second year
+  - i want to see all the modules for 2nd year
+  - how many modules are there in year 2
+  - how many modules are there in year two
+  - how many modules are there in second year
+  - how many modules are there in 2nd year
+  - how many modules are there in yr2
+  - how many modules are there in yr 2
+  - where can i see all the modules in year 2
+  - where can i see all the modules in year two
+  - where can i see all the modules in second year
+  - where can i see all the modules in 2nd year
+  - where can i see all the modules in yr 2
+  - where can i see all the modules in yr2
+  - where can i find course description for year 2
+  - where can i find course description for year two
+  - where can i find course description for second year
+  - where can i find course description for 2nd year
+  - where can i find course description for yr 2
+  - where can i find course description for yr2
+  - course description for year 2 students
+  - course description for second year students
+  - course description for 2nd year students
+  - course description for year two students
+  - when should i submit which modules i have chosen for year 2
+  - when should i submit which modules i have chosen for year two
+  - when should i submit which modules i have chosen for second year
+  - when should i submit which modules i have chosen for 2nd year
+  - where do i submit which modules i want to pick for year 2
+  - where do i submit which modules i want to pick for year two
+  - where do i submit which modules i want to pick for second year
+  - where do i submit which modules i want to pick for 2nd year
+  - what are the module weightings for year 2
+  - what are the module weightings for year two
+  - what are the module weightings for second year
+  - what are the module weightings for 2nd year
+  - what programming languages am i going to learn in year 2
+  - what programming languages am i going to learn in 2nd year
+  - what programming languages am i going to learn in second year
+  - what programming languages am i going to learn in year two
+  - is horizons compulsory for year 2
+  - is horizons compulsory for year two
+  - is horizons compulsory for second year
+  - is horizons compulsory for 2nd year
+  - do i have to do horizons in year 2
+  - do i have to do horizons in year two
+  - do i have to do horizons in second year
+  - do i have to do horizons in 2nd year
+  - how many people do we need for drp
+  - how many people do we need for 50010
+  - how many people do we need for comp50010
+  - how many people do we need for year 2 group project
+  - how many people do we need for year2 group project
+  - how many people do we need for second year group project
+  - how many people do we need for group project
+
+
+ 
+---
+
+type: entity
+name: second year
+values: 
+  - [year two, 2nd year, 2nd years, second year, second years, year 2, yr2, yr 2]
+  - ["50001", algorithm design and analysis, second year algorithm, algorithm]
+  - ["50002", software engineering design, sed, software design]
+  - ["50003", models of computation, models, model]
+  - ["50004", operating systems, os]
+  - ["50005", Networks and communications, Networks, Network]
+  - ["50006", compilers, compiler]
+  - ["50007", lab, laboratory, pintos, wacc, prolog]
+  - ["50008", probability and statistics, stats, probability]
+  - ["50010", year2 group project, drp, second year group project, group project]
+  - ["50009", symbolic reasoning, symbolic]
+  - ["50011", computational techniques, comp tech]

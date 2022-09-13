@@ -1,0 +1,116 @@
+type: intent
+name: doctor
+utterances:
+  - should i register with a doctor
+  - should i register with a dr
+  - should i register with a doctor's practice
+  - should i register with a gp
+  - should i register with a gp surgery
+  - can i register with a doctor
+  - can i register with a dr
+  - can i register with a doctor's practice
+  - can i register with a gp
+  - can i register with a gp surgery
+  - when should i register with a doctor
+  - when should i register with a dr
+  - when should i register with a doctor's practice
+  - when should i register with a gp
+  - when should i register with a gp surgery
+  - what doctor should i register with
+  - what dr should i register with
+  - what doctor's practice should i register with
+  - what gp should i register with
+  - what gp surgery should i register with
+  - how do i register with a doctor
+  - how do i register with a dr
+  - how do i register with a doctor's practice
+  - how do i register with a gp
+  - how do i register with a gp surgery
+  - i need urgent healthcare
+  - i need a doctor urgently
+  - i need a dr urgently
+  - i need a gp urgently
+  - i need urgent healthcare assistance
+  - i need urgent medical care
+  - i need urgent medical help
+  - can i register with imperial health centre
+  - can i register with imperial college health centre
+  - can i register with the health centre
+  - can i register with the nhs health centre
+  - how do i register with imperial health centre
+  - how do i register with imperial college health centre
+  - how do i register with the health centre
+  - how do i register with the nhs health centre
+  - where is imperial health centre
+  - where is imperial college health centre
+  - where is the health centre
+  - where is the nhs health centre
+  - how do international students register with a gp
+  - how do overseas students register with a gp
+  - how do international students register with a doctor
+  - how do overseas students register with a doctor
+  - how do international students register with a dr
+  - how do overseas students register with a dr
+  - how do international students register with a gp surgery
+  - how do overseas students register with a gp surgery
+  - how do international students register with a doctor's practice
+  - how do overseas students register with a doctor's practice
+  - do home students need to register with a gp
+  - do uk students need to register with a gp
+  - do home students need to register with a doctor
+  - do uk students need to register with a doctor
+  - do home students need to register with a dr
+  - do uk students need to register with a dr
+  - do home students need to register with a gp surgery
+  - do uk students need to register with a gp surgery
+  - do home students need to register with a doctor's practice
+  - do uk students need to register with a doctor's practice
+  - do i need to pay immigration health surcharge
+  - do i need to pay ihs
+  - do i need to pay immigration healthcare surcharge
+  - do i need to pay healthcare surcharge
+  - do i need to pay health surcharge
+  - do i need a european health insurance card
+  - do i need a ehic
+  - do i need to register for a gp again
+  - do i need to register for a doctor again
+  - do i need to register for a dr again
+  - do i need to register for a gp surgery again
+  - do i need to register for a doctor's practice again
+  - do i need to reregister with a gp
+  - do i need to reregister with a gp surgery
+  - do i need to reregister with a doctor
+  - do i need to reregister with a dr
+  - do i need to reregister with a doctor's practice
+  - i'm already registered with a gp at home, do i need to register again
+  - i'm already registered with a gp surgery at home, do i need to register again
+  - i'm already registered with a doctor at home, do i need to register again
+  - i'm already registered with a dr at home, do i need to register again
+  - i'm already registered with a doctor's practice at home, do i need to register again
+  - how do i book an urgent appointment
+  - i need to see a doctor now
+  - i need to see a dr now
+  - i need to see a gp now
+  - i want to talk to my gp
+  - i want to talk to my dr
+  - i want to talk to my doctor
+  - how do i book an appointment with a gp
+  - how do i book an appointment with a dr
+  - how do i book an appointment with a doctor
+  - how do i book an appointment with a gp surgery
+  - how do i book an appointment with a doctor's practice
+  - i need to talk to a medical specialist
+  - how do i see a medical specialist
+  - can i get private health insurance
+  - can i get health insurance
+  - how do i get health insurance
+  - how do i apply for health clearance
+  - how do i order a prescription
+  - i want to order a repeat prescription
+  - general practitioner
+  - gp
+  - gp nearby
+  - surgeon 
+  - surgeon nearby
+  - where can i find a surgeon
+  - gp surgery

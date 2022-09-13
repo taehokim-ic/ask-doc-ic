@@ -1,0 +1,53 @@
+type: intent
+name: mitigation
+utterances:
+  - what counts as mitigating circumstances
+  - what counts as acceptable evidence
+  - when can i expect to know the outcome of my mitigating circumstances
+  - can i self-certify
+  - what is the deadline for applying for mitigating circumstances
+  - how do i apply for mitigating circumstances
+  - how do i make a claim for mitigating circumstances
+  - who can i contact if i need support with my mitigating circumstances application
+  - what typical outcome can i expect if my mitigating circumstances are approved
+  - can i get a repeat attempt
+  - can i get an uncapped resit
+  - can i repeat the year
+  - can i delay my exams
+  - can i make a late claim for mitigating circumstances
+  - i've submitted my mitigating circumstances late
+  - can i request an extension deadline
+  - do disabilities count as mitigating circumstances
+  - do ongoing conditions count as mitigating circumstances
+  - do long-term conditions count as mitigating circumstances
+  - when will i find out the outcome of my mitigating circumstances
+  - when will i find out the decision of my mitigating circumstances
+  - when do the board of examiners meet
+  - where can i get the mitigation form from
+  - i want to access the mitigation form
+  - where is the mitigating circumstances form
+  - i have a mitigating circumstance
+  - who do i contact about mitigating circumstances
+  - why have my mitigating circumstances not been approved
+  - why have my mitigating circumstances been rejected
+  - can i get a coursework extension
+  - can i get advice with my mitigation application
+  - can i get help with my mitigation application
+  - can i get support with my mitigation application
+  - who can i speak to about my mitigating circumstances
+   - do disabilities count as mitigating circumstances
+  - do ongoing conditions count as mitigating circumstances
+  - do long-term conditions count as mitigating circumstances
+  - where can i get the mitigation form from
+  - i want to access the mitigation form
+  - where is the mitigating circumstances form
+  - i have a mitigating circumstance
+  - who do i contact about mitigating circumstances
+  - exam mitigation
+  - mitigation form
+  - mitigating circumstances form
+  - mitigation for coursework
+  - coursework extension
+  - coursework mitigation
+  - exam mitigating circumstances
+  - coursework mitigating circumstances

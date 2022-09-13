@@ -1,0 +1,27 @@
+type: intent
+name: friends
+utterances:
+  - how do i make friends
+  - how do i make more friends
+  - i feel lonely, what can i do
+  - i feel isolated, what can i do
+  - i don't have friends
+  - i don't have any friends
+  - don't have friends
+  - where can i find new friends
+  - new friends
+  - i lost all my friends
+  - i want to make new connections
+  - finding new friends
+  - finding new connections
+  - building friendship
+  - new friendship
+  - i don't have friends, where can i find them
+  - i want to have a better social life
+  - i want to have a social life
+  - how can i make new friends
+  - how can i make friends
+  - i need friend
+  - friend
+  - friends
+  

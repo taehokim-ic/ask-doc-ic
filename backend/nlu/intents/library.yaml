@@ -1,0 +1,65 @@
+type: intent
+name: library
+utterances:
+  - i need to borrow a book
+  - where can i find computing related books
+  - what kind of books does imperial library have
+  - does imperial only have one library
+  - how can i return a book from library
+  - how many books maximum can i borrow from library
+  - what should i do if i lost a book borrowed from library
+  - how much will i be charged if i lost a book from library
+  - where is the imperial library
+  - how can i book a room in library
+  - where can i book a study place in library
+  - where can i book a study space in library
+  - do i need my college id card to go into library
+  - can i go inside the library without my college card
+  - where can i find computing textbooks
+  - which floor is the silence floor
+  - which floor is the silent floor
+  - can i talk in the library
+  - can i eat in library
+  - does the library have computers
+  - can i get help for writing citations
+  - does library have e-books
+  - where can i access ebooks
+  - where can i access e book
+  - how long can i borrow a book
+  - where can i download an e-book
+  - i want to see all catalogues of books in imperial
+  - when is library closed
+  - when does the library close
+  - when does the library open
+  - is the library still open over the summer
+  - is the library still open over chirstmas
+  - can i stay overnight in the library
+  - where should i return my book
+  - can i talk in library
+  - Can I still access BrowZine as an alumnus 
+  - Who can join the library
+  - How can I get hold of an item which is not available at Imperial
+  - How do I see an Imperial PhD thesis
+  - How do I access e-books
+  - I need help with OpenAthens
+  - Can I book a Central Library training room
+  - how can i book a room on the second floor of the library
+  - where can i view all the catalogues
+  - how can i access e-books
+  - can i get any guide for finding resources
+  - where can i find references for my paper
+  - can i get any help for citing resources
+  - where can i sign up for academic english support
+  - where is academic english centre
+  - library opening hours
+  - library close time
+  - library toilet
+  - overnight library stay
+  - sleep in library
+  - library book return
+  - library book
+  - i want to return my library book
+  - electronic book access
+  - electronic book
+  - e-book
+  - e book

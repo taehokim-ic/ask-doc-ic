@@ -1,0 +1,19 @@
+type: intent
+name: self_harm
+utterances:
+  - i feel that i might self harm
+  - i am worried about self harming
+  - i have harmed myself
+  - i will self harm
+  - i have self harmed
+  - self harm
+  - i have cut myself
+  - i have intentionally hurt myself
+  - i have intentionally injured myself
+  - i want to stop self harming
+  - how do i stop self harming
+  - i self-harm
+  - i have self-harmed
+  - i have self-harmed. how do i get help
+  - i am scared that i will self-harm
+  - i am afraid of self harming

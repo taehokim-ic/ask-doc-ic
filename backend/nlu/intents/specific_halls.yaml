@@ -1,0 +1,59 @@
+type: intent
+name: specific_halls
+slots:
+  - name: halls
+    entity: halls
+utterances:
+  - i want to know where [halls] (xenia) is located
+  - is there availability for [halls] (xenia) accommodation
+  - where can i get information on [halls] (southside) halls
+  - can i get information on [halls] (xenia)
+  - please [halls] (beit) information
+  - can i get information on [halls] (southside)
+  - where can I get information for [halls] (xenia)
+  - please [halls] (beit) information
+  - how do I book [halls] (wilson) accommodation?
+  - how for is [halls] (evelyn gardens) from campus?
+  - how long does it take for me to commute from [halls] (wilson)
+  - how do I become a hall senior for [halls] (woodward)?
+  - where is [halls] (parsons house) located?
+  - what area is [halls] (kp) in?
+  - how much does it cost to stay at [halls] (southside)?
+  - i want to get more information on [halls] (beit) hall
+  - information on [halls] (beit) halls
+  - where to get more information on [halls] (beit) accommodation
+  - how to get information on [halls] (wilson) hall
+  - room availability on [halls] (silwood) halls
+  - can i know where [halls] (eastside) is located?
+  - what rooms are avaible in [halls] (wilson)?
+  - what room options for [halls] (eastside)?
+  - how much does it cost to live in [halls] (woodward)?
+  - how long is the contract for [halls] (wilson)
+  - what hall events are there for [halls] (eastside)?
+  - how do I book [halls] (wilson) acommodation?
+  - is there availability for [halls] (xenia) acommodation
+  - how do I book [halls] (wilson) accomodation?
+  - is there availability for [halls] (xenia) accomodation
+  - how do I book [halls] (wilson) acomodation?
+  - is there availability for [halls] (xenia) acomodation   
+   
+---
+
+type: entity
+name: halls
+values: 
+  - wilson
+  - [kemp porter, kp]
+  - woodward
+  - southside
+  - eastside
+  - beit
+  - xenia
+  - evelyn gardens
+  - parsons house
+  - brian flowers
+  - john smith
+  - mary flowers
+  - southwood
+  - william penney
+  - [silwood, silwood park]

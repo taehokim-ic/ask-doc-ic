@@ -1,0 +1,120 @@
+type: intent
+name: societies
+utterances:
+  - how can I start a [activities] (new) society
+  - Is there any [activities] (art) events
+  - How can I join [activities] (imperial athletes) community
+  - what is [activities] (tankard)
+  - what is [campaign] (black history month)
+  - Is there any event for [campaign] (LGBTQ)
+  - Are there any resources for [campaign] (Black History Month)
+  - Who is [my union] (my representatives)
+  - when is [my union] (summer ball)
+  - who is the candidates for [my union] (summer election)
+  - where can I give [advice] (feedback)
+  - what should I do if I have [advice] (accommodation issues)
+  - where can I buy [shop] (union products)
+  - I am interested in rowing. Is there a [activities] (club) that I can join
+  - i want to join a society
+  - where can i meet new people
+  - where can i go to do quizzes
+  - is there a chess club
+  - how can i spend my time outside of my degree
+  - is there a drama society
+  - where can i play mahjong
+  - i play an instrument, are there any bands I can join
+  - I like to sing, can I join the choir
+  - where can i sign up football
+  - i want to meet new people, where can i go
+  - i want to join a society, give me the website
+  - how to start a new society
+  - i want to start a new society
+  - i haven't joined any society, any recommendation
+  - where can i see all the society
+  - i want to see all society
+  - society website
+  - society
+  - what society can i join in second year
+  - give me some sports societies
+  - how can i run for the committee in a society
+  - do i need to pay for joining a society
+  - how much do i need to pay for joining a society
+  - how do i join a society
+  - societies
+  - society
+  - societies information
+  - information on societies
+  - clubs and societies
+  - information on clubs and societies
+  - information on society
+  - society information
+
+---
+
+type: entity
+name: activities
+values: 
+  - [new, start]
+  - [art, visual art]
+  - media
+  - [athletes, imperial athletes, athletic]
+  - [tankard, yearly engraving]
+  - [clubs, societies, groups, club, group]
+
+
+---
+
+type: entity
+name: campaign
+values:
+  - black history month
+  - ICUsToo
+  - black lives matter
+  - disability history month
+  - [LGBTQ, LGBTQ+]
+
+
+---
+
+type: entity
+name: my union
+values:
+  - [my representatives, representatives, representative]
+  - constituent unions
+  - [governing documents, govern]
+  - committees
+  - management group
+  - impact
+  - finances
+  - policies
+  - union awards
+  - summer ball
+  - [leadership elections, leadership election]
+  - [summer elections, summer election]
+  - [autumn elections, autumn election]
+
+---
+type: entity
+name: advice
+values:
+  - [academic issues, academic, academic issue]
+  - [imperial accommodation issues, imperial accommodation issue, accommodation issue, hall issue]
+  - [complaints, complain, complaint]
+  - signposting
+  - feedback
+  - wellbeing resources
+  - advice service policies
+
+---
+
+type: entity
+name: shop
+values:
+  - products
+  - [union product, union products]
+  - branded merchandise
+  - [hall products, hall product]
+  - [union shop, shop extra]
+
+
+

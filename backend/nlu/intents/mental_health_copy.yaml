@@ -1,0 +1,245 @@
+type: intent
+name: mental_health
+utterances:
+  - how can I contact Caroline
+  - Who is my year representative
+  - who are my year reps
+  - who is the wellbeing rep
+  - who should I contact if I need mental health help
+  - can I contact my personal tutor if i have mental health problems
+  - can i get a therapist
+  - can i get a councillor
+  - counselor
+  - can i get a counselor
+  - counsellor
+  - can i get a counsellor
+  - what's Caroline's email
+  - Who is my well-being representative
+  - Who is my well-being rep
+  - who is my well being representative
+  - who should I contact if I need mental health support
+  - who can i get mental health support
+  - i feel so stressed, what should i do
+  - i am so stressed, what should i do
+  - i feel lonely, is there anyone that i can talk to
+  - i am very upset with my grades, who can i talk to
+  - i am upset with my exams
+  - i can't take it anymore
+  - the workload is killing me
+  - i can't handle all the exams
+  - i feel overwhelmed by the coursework and exams
+  - i feel unmotivated and unfocused
+  - i can't focus on my studying
+  - i am overwhelmed by the workload
+  - does imperial provide any mental health support
+  - what should i do if i need mental health support
+  - can i contact my personal tutor if i feel stressed
+  - i failed so many exams, is there anyone that i can talk to
+  - i am very anxious about my grade
+  - i need mental health support
+  - is the mental health support in confidence
+  - is there any way that i can get mental health support anonymously
+  - who is caroline
+  - how can i book a session with caroline
+  - is the therapy free in imperial
+  - how long are counselling sessions
+  - how long do i have to wait for counselling
+  - i hate my course
+  - i want to drop out
+  - i am suffering from depression
+  - i am so depressed
+  - i need help
+  - i need support
+  - i'm having a mental health crisis
+  - mental health crisis
+  - i'm at a crisis point
+  - i feel stressed
+  - i'm stressed
+  - i'm anxious
+  - i feel anxious
+  - i have trouble sleeping
+  - i can't sleep at night
+  - i feel tired all the time
+  - i'm losing weight
+  - i keep losing weight
+  - i have trouble relaxing
+  - i can't relax
+  - i feel upset
+  - i feel upset all the time
+  - i have eating disorder
+  - eating disorder
+  - bipolar 
+  - i have bipolar disorder
+  - depressed
+  - depression
+
+
+
+type: intent
+name: illness
+utterances:
+# Variations of feeling ill
+  - i feel ill
+  - i feel sick
+  - i feel unwell
+  - i don't feel well
+  - i don't feel too well
+  - i don't feel very well
+  - i don't feel good
+  - i don't feel too good
+  - i don't feel very good
+  - i feel like i am sick
+  - i feel like i am ill
+  - i feel like i am poorly
+  - i feel like i am not good
+  - i feel like i am unwell
+  - i feel like i have an illness
+  - i feel very sick
+  - i feel poorly
+  - i'm ill
+  - i am ill
+  - i'm unwell
+  - i'm not well
+  - i am unwell
+  - i'm poorly
+  - i am poorly
+  - i'm sick
+  - i am sick
+  - i'm not sure what's wrong with me
+  - i don't feel myself
+  - i don't feel like myself
+  - i feel off
+  - i don't feel ok
+  - i want to talk to someone
+  - i want to speak to someone
+  - i am suffering from an illness
+  - i have an illness
+  
+  # Ailments and medical problems 
+  - my arm hurts
+  - my eye hurts
+  - my leg hurts
+  - my finger hurts
+  - my neck hurts
+  - my back hurts
+  - my ankle hurts
+  - my head hurts
+  - my arm is broken
+  - i have broken my arm
+  - my leg is broken
+  - i have broken my leg
+  - i have broken my finger
+  - my finger is broken
+  - i have burnt my skin
+  - my skin is burnt
+  - i am bleeding
+  - i have cut myself
+  - my arm is bleeding
+  - my foot is bleeding
+  - my nose is bleeding
+  - my ear is bleeding
+  - my leg is bleeding
+  - my foot is swollen
+  - my finger is swollen
+  - my hand is swollen
+  - my ankle is swollen
+  - my ankle is dislocated
+  - my elbow is dislocated
+  - i have severe stomach pain
+  - i am in pain
+  - i have severe pain
+  - i have bruised myself badly
+  - my skin is bruised
+  - my leg is sore
+  - my arm is sore
+  - i think i have broken my arm. what do i do
+  - i've broken my arm. what should i do
+  - i think i have bruised my eye. what do i do
+  - i've bruised my eye. what should i do
+  - i think i have dislocated my toe. what do i do
+  - i've dislocated my toe. what should i do
+  - i think i have badly burned my skin. what do i do
+  - i've badly burned my skin. what should i do
+  - i think i have burst my eardrum. what do i do
+  - i've burst my eardrum. what should i do
+  - broken something
+  - cut skin
+  - break in leg
+  - broken bone
+  - fractured bone
+  - bone break
+  - twisted ankle
+  - throwing up
+  - vomit
+  - vomiting 
+  - puke
+  - puking
+  - diarrhea
+  - food poisoning
+  - nose bleed
+  - constipation
+  - flu
+  - i have broken something
+  - i have a broken leg
+  - i have a broken bone
+  - i have a fractured bone
+  - i have a bone break
+  - i keep throwing up
+  - i keep vomiting
+  - i keep puking
+  - i have diarrhea
+  - i have a hurt eye
+  - i have a nose bleed
+  - i have constipation
+  - i have severe constipation
+  - i have the flu
+  - i think i have the flu
+  - i think i have covid
+  - i think i have covid-19
+  - i think i have coronavirus
+  - i think i have long covid
+  - i think i have long covid-19
+  - i think i have long coronavirus
+
+  # Mental health-related illnesses
+  - i am struggling with my mental health
+  - who should I contact if I need mental health help
+  - who should I contact if I need mental health support
+  - where can i get mental health support
+  - i feel that i might self harm
+  - i am worried about self harming
+  - i have self harmed
+  - i have depression
+  - i feel depressed
+  - i have a sense of dread
+  - i feel worthless
+  - i feel sad
+  - i feel empty
+  - depressed
+  - depression
+  - i am depressed
+  - i am suffering from depression
+  - i am anxious
+  - anxious
+  - i have anxiety
+  - anxiety
+  - i worry a lot
+  - i feel low
+  - i have trouble sleeping
+  - i can't sleep at night
+  - i feel tired all the time
+  - i have lost weight
+  - i'm losing weight
+  - i keep losing weight
+  - i can't relax
+  - i have trouble relaxing
+  - i have an anxiety disorder
+  - anxiety disorder
+  - i have panic attacks
+  - panic attacks
+  - i have an eating disorder
+  - eating disorder
+  - i binge eat
+  - binge eating
+  - i think i have bipolar disorder
+  - bipolar
